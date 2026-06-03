@@ -1,0 +1,13 @@
+{
+  "name": "canton-daily",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Canton Daily Scanner - Android (Capacitor)",
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}

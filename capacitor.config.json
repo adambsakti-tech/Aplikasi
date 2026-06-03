@@ -1,0 +1,8 @@
+{
+  "appId": "com.daimun.cantondaily",
+  "appName": "Canton Daily",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
