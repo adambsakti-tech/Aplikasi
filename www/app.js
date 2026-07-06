@@ -23,52 +23,7 @@ const DEFAULT_WALLETS = {
     { label: "hecto-07", party_id: "supa1::1220659b0bf44155971d99b66d7a7d8deb48cf16e86188955a486aa21faaf3d9a26f" },
     { label: "hecto-08", party_id: "supa1::12208d11f9ae60a04d1107b0bbbd157448fad685eefa2d63f4b4993e6f50417b1c67" },
     { label: "hecto-09", party_id: "supa1::122019466f8eb135bf548ece2b6c8890342119cf9d727f0119205e9bcf4c59112671" },
-    { label: "hecto-10", party_id: "supa1::12202a0bbdaa955be290d73750f1a35f1a8f5c385c10db094c3c1b28165f9cb55b1d" },
-    { label: "hecto-11", party_id: "supa1::122066e1a224cf9acf6fca64b949b6c96a71987cc7c20c81d3a2b55d2a7610e7e793" },
-    { label: "hecto-12", party_id: "supa1::12201621bcb3420e7f9cf95bc9637395d53fef88a3fb369ab056d881654ed807c4e4" },
-    { label: "hecto-13", party_id: "supa1::12209444c643c99a12ea276fcec587d1f706262c6bda1a955a7088c5ce1fe0178ea7" },
-    { label: "hecto-14", party_id: "supa1::12201ddd750d3c0e61525ecfc9b29b900b84c649521ed48e9dd709172f29f7e782f1" },
-    { label: "hecto-15", party_id: "supa1::122036b71b9d2d71f413717b67404824714904d92e40632d47760b34c931fe13328b" },
-    { label: "hecto-16", party_id: "supa1::12203565d74a1bc07aa771753d26402f153e5727472da8b3b26a2f48216a69fa641c" },
-    { label: "hecto-17", party_id: "supa1::1220298919e41a080297256dcee717237289d7dada2fe25c8da851ebf6a0ecc23b71" },
-    { label: "hecto-18", party_id: "supa1::12201c148e74394636c70dd1f8f6bd36c1cac43ccd9af8247d84e48a759edb95008e" },
-    { label: "hecto-19", party_id: "supa1::1220613d199a3298decb727f902d16bc8ac055cdd62882d7b21aeda97f363b37b26c" },
-    { label: "hecto-20", party_id: "supa1::1220e64845baebff7d77ce4c87dc4488ff0834058dd0b9f28b8e0f31aee0658fee59" },
-    { label: "hecto-21", party_id: "supa1::1220c47b72414644ed9eb873ea2021e1c58df092dcd96354cd5c911241fc738ccf49" },
-    { label: "hecto-22", party_id: "supa1::1220acaecc7d9ee8cdebd1d80bd018f53223d4a6693ebc103a8cba3d293093dc0760" },
-    { label: "hecto-23", party_id: "supa1::1220ab1f4ce1641288edc322dd94ec7b9eddfdae08f863fbe8d248e4498c8b072a59" },
-    { label: "hecto-24", party_id: "supa1::1220c81f392727e754edef3d97a4205e9aa0a19fb2d17d5381e9e33852f34c42ed36" },
-    { label: "hecto-25", party_id: "supa1::1220d01865c91b2b848ec9e5264977681d6f3600ca49645e7cd802f0040201bff19d" },
-    { label: "hecto-26", party_id: "supa1::12203a710ec53007fdd634b45e3a8e605b35aee9cc5f406ff2eb342cc1ed14dce02f" },
-    { label: "hecto-27", party_id: "supa1::12202c26a9ece0a77226cfb961ce1ece8c0e9bceabbd95b300a3cc616931dfe65ab5" },
-    { label: "hecto-28", party_id: "supa1::12208ad88ad97804ef0a8009fb5b2ba2b875d6a664ed4c425b573f76d7126f0d8c97" },
-    { label: "hecto-29", party_id: "supa1::1220433b9c74f7c7e71dba959a01bc6eee219fed32873c252746b4484d921a90f651" },
-    { label: "hecto-30", party_id: "supa1::122098b343ec67d8262537230ae77583b7f7b7ea997618d276967b1f7015c032adb4" },
-    { label: "hecto-31", party_id: "supa1::122017cedf6726025e84451f58cc623b5325537a43eaf0271ec57b79b68aeccac694" },
-    { label: "hecto-32", party_id: "supa1::1220c7c49846f4bc0aeed93f93af9fadd127b109ee1cce8b22bcd4b277a222ddf9db" },
-    { label: "hecto-33", party_id: "supa1::122095bd76098fd851b255c0e7897ef56e065f61de02cdd9d8ab0f2f065ad117c186" },
-    { label: "hecto-34", party_id: "supa1::12201a6b1a36a40d9b7adf1cd4a71589f02a56c11ace4ff51d37749200a7ff8bb33a" },
-    { label: "hecto-35", party_id: "supa1::1220c248048ed081f35c41e6f9aa4202e7d30c829139c477084981b97669afe637ec" },
-    { label: "hecto-36", party_id: "supa1::1220df903e3cc06946986749a09133d7c9a809a98084999cae6816068b0ace92c660" },
-    { label: "hecto-37", party_id: "supa1::122083eea5651b5a09103ca35e2d6fb56c735dfb9435eea61b5c684b53d7dc19a36b" },
-    { label: "hecto-38", party_id: "supa1::122033f8398b4ff65804235d208555e9db673ab60cc53858ee98a21f0c5f5721ed09" },
-    { label: "hecto-39", party_id: "supa1::12207502824fa11cedccf334db4720c513973d6bf406d5a08dccf09f5c00ca0e9f78" },
-    { label: "hecto-40", party_id: "supa1::12200789c6c5933c4f08d952099332d6788d5e33134c07fc7f970256d3ace45b37d1" },
-    { label: "hecto-41", party_id: "supa1::1220598deeec1c8469108c5bab5c6bff61a24743a37e4db3b84eabbe21011f03fa7c" },
-    { label: "hecto-42", party_id: "supa1::12208ad88ad97804ef0a8009fb5b2ba2b875d6a664ed4c425b573f76d7126f0d8c97" },
-    { label: "hecto-43", party_id: "supa1::122082e27f4903433c96d116522bf70717e1851dc911d7edffd64dd62edfd33b8148" },
-    { label: "hecto-44", party_id: "supa1::12208787d2858aef7069d68e26f2389835ef719f1c5f799c8b4de83eb35a2b02c137" },
-    { label: "hecto-45", party_id: "supa1::12201ef49824a7a7b6e58902656c3dca5a587396e9fe36d549763ba11d781813e1eb" },
-    { label: "hecto-46", party_id: "supa1::1220e0f66293f9a09f5183e40e692dc4348cd70db937c2f209691e6580f352840011" },
-    { label: "hecto-47", party_id: "supa1::1220dd408efeb8b7bdc9fa272f901a2ca81838f96a30d58c77c77eb356e2404a3dcb" },
-    { label: "hecto-48", party_id: "supa1::1220de5570cf765158db76f171adb47bff7e5d6c343de366d20e80d7e948482fb1fb" },
-    { label: "hecto-49", party_id: "supa1::12204e34816949be72bfa1bb7013e54d116376b97ce51372b6fc4f9b399eef03d3a1" },
-    { label: "hecto-50", party_id: "supa1::12203618022af64d7840781f8e250def972565eefff7f2705822227465d74afcffd0" },
-    { label: "hecto-51", party_id: "supa1::12209ad5ef7e4184e88c59e3205619b0dfbce8233b59842488162bdf6865824b3f65" },
-    { label: "hecto-52", party_id: "supa1::12201920e1f70606cbcd0f8c79cc47f12552086cb75aa23cdd22e88a20fddedc8a1d" },
-    { label: "hecto-53", party_id: "supa1::12209be3236f26de57e5b9a4ec513a0b445b154985de21b79539d936a31d1cedb94d" },
-    { label: "hecto-54", party_id: "supa1::122082e27f4903433c96d116522bf70717e1851dc911d7edffd64dd62edfd33b8148" },
-    { label: "hecto-55", party_id: "supa1::122066ee1fc29adeaff030b7cfe0aa6c71daa89f6d769d569e048ec3ef916c6be131" }
+    { label: "hecto-10", party_id: "supa1::12202a0bbdaa955be290d73750f1a35f1a8f5c385c10db094c3c1b28165f9cb55b1d" }
   ]
 };
 
@@ -209,7 +164,7 @@ function renderHarian() {
           <span class="bal">saldo ${(data.balance||0).toFixed(2)}</span>
         </span></div>`;
     }
-    html += `<div class="grp"><div class="gh"><b>${groupName}</b><span class="gt">fee ${gFeeTx}× −${gFee.toFixed(2)}${gPool?` · pool +${gPool.toFixed(2)}`:``}</span><span class="bd">${wallets[groupName].length}</span></div>${rows}</div>`;
+    html += `<div class="grp"><div class="gh"><b>${groupName}</b><span class="gt">fee ${gFeeTx}× −${gFee.toFixed(2)}${gPool?` · pool +${gPool.toFixed(2)}`:``}</span><span class="bd">${wallets[groupName].length}</span></div><div class="wallets">${rows}</div></div>`;
   }
   c.innerHTML = html || `<p class="muted">Belum ada wallet. Tambah di tab Wallet.</p>`;
 }
@@ -277,7 +232,6 @@ function renderWalletAdmin() {
       <button class="delg" data-g="${cssId(groupName)}">🗑 grup</button></div><div class="tags">${tags||'<span class="muted">kosong</span>'}</div></div>`;
   }
   $("walletAdmin").innerHTML = html;
-  // bind remove wallet
   document.querySelectorAll("#walletAdmin .rm").forEach(el => el.addEventListener("click", () => {
     const gid = el.getAttribute("data-g"), i = +el.getAttribute("data-i");
     const groupName = Object.keys(wallets).find(g => cssId(g) === gid);
@@ -366,28 +320,106 @@ function downloadExport() {
   document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
 }
 
+// ===== NOTIFIKASI INTEGRATION =====
+function updateNotificationUI() {
+  const stats = walletNotifications.getNotificationStats();
+  const statsEl = $("notifStats");
+  if (statsEl) {
+    statsEl.innerHTML = `
+      <span class="stats-badge">📢 Total: ${stats.total}</span>
+      <span class="stats-badge">📅 Hari ini: ${stats.today}</span>
+      <span class="stats-badge">👁️ Dipantau: ${stats.wallets}</span>
+      <span class="stats-badge">${stats.monitoring ? '🟢 Aktif' : '🔴 Berhenti'}</span>
+    `;
+  }
+  walletNotifications.renderMonitoredWallets();
+  walletNotifications.renderNotificationHistory();
+}
+
+function populateMonitorSelectFromWallets() {
+  const sel = $("addMonitorSelect");
+  if (!sel) return;
+  let opts = `<option value="">Pilih wallet dari daftar...</option>`;
+  for (const groupName of Object.keys(wallets)) {
+    for (const w of wallets[groupName]) {
+      opts += `<option value="${w.party_id}|${w.label}|${groupName}">${groupName} - ${w.label}</option>`;
+    }
+  }
+  sel.innerHTML = opts;
+}
+
 // ===== TABS + INIT =====
 function showTab(name) {
-  ["harian", "range", "wallet"].forEach(t => {
-    $("tab-" + t).style.display = t === name ? "block" : "none";
-    $("btn-" + t).classList.toggle("active", t === name);
+  ["harian", "range", "notifikasi", "wallet"].forEach(t => {
+    const tab = $("tab-" + t);
+    const btn = $("btn-" + t);
+    if (tab) tab.style.display = t === name ? "block" : "none";
+    if (btn) btn.classList.toggle("active", t === name);
   });
   if (name === "wallet") renderWalletAdmin();
+  if (name === "notifikasi") {
+    populateMonitorSelectFromWallets();
+    updateNotificationUI();
+  }
 }
+
 document.addEventListener("DOMContentLoaded", () => {
   $("rEnd").value = new Date().toISOString().slice(0, 10);
   $("rStart").value = new Date(Date.now() - 7 * 86400000).toISOString().slice(0, 10);
   renderHarian();
+  populateMonitorSelectFromWallets();
+
+  // Scan & Export
   $("scanBtn").addEventListener("click", scanAll);
   $("exportBtn").addEventListener("click", exportTxt);
   $("rBtn").addEventListener("click", runRange);
+
+  // Wallet Management
   $("addWalletBtn").addEventListener("click", addWallet);
   $("addGroupBtn").addEventListener("click", addGroup);
   $("resetBtn").addEventListener("click", resetWallets);
   $("copyExportBtn").addEventListener("click", copyExport);
   $("dlExportBtn").addEventListener("click", downloadExport);
   $("closeModalBtn").addEventListener("click", () => $("exportModal").style.display = "none");
+
+  // Notification Controls
+  $("reqPermBtn").addEventListener("click", async () => {
+    const granted = await walletNotifications.requestNotificationPermission();
+    status(granted ? "✅ Izin notifikasi diberikan" : "❌ Izin ditolak");
+  });
+
+  $("startMonitorBtn").addEventListener("click", () => {
+    walletNotifications.startMonitoring(30000); // Cek setiap 30 detik
+    status("✅ Pantau dimulai");
+    updateNotificationUI();
+  });
+
+  $("stopMonitorBtn").addEventListener("click", () => {
+    walletNotifications.stopMonitoring();
+    status("⏹ Pantau dihentikan");
+    updateNotificationUI();
+  });
+
+  $("addMonitorBtn").addEventListener("click", () => {
+    const sel = $("addMonitorSelect");
+    const val = sel.value;
+    if (!val) { status("❌ Pilih wallet"); return; }
+    const [party_id, label, groupName] = val.split("|");
+    if (walletNotifications.addMonitoredWallet(party_id, label, groupName)) {
+      status(`✅ ${label} ditambah ke pantauan`);
+      sel.value = "";
+      updateNotificationUI();
+    } else {
+      status(`❌ ${label} sudah dipantau`);
+    }
+  });
+
+  // Tabs
   $("btn-harian").addEventListener("click", () => showTab("harian"));
   $("btn-range").addEventListener("click", () => showTab("range"));
+  $("btn-notifikasi").addEventListener("click", () => showTab("notifikasi"));
   $("btn-wallet").addEventListener("click", () => showTab("wallet"));
+
+  // Initial UI update
+  updateNotificationUI();
 });
